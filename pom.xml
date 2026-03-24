@@ -4,7 +4,7 @@
   <groupId>com.johnkelley.myApp</groupId>
   <artifactId>my-app</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-featurev-1</version>
+  <version>1.0-featurev-2</version>
   <name>my-app</name>
   <url>http://maven.apache.org</url>
   <dependencies>
